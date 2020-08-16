@@ -1,6 +1,6 @@
 ### Hi there, I'm Raian [Raian-Siddique][website] 👋
 
-[![Facebook](https://img.shields.io/website?label=raiansiddique01&style=for-the-badge&url=https%3A%2F%2Ffacebook.com)](https://web.facebook.com/raiansiddique01/)
+[![Facebook Follow](https://img.shields.io/facebook/follow/raiansiddique01?color=1DA1F2&logo=twitter&style=for-the-badge))](https://web.facebook.com/raiansiddique01/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/raiansiddique01?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/raiansiddique01)
 
 ## I'm a Student, Developer, fitness-Freak and YouTuber!
