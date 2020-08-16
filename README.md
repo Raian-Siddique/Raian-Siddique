@@ -64,6 +64,12 @@
 
 ---
 
+<img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
+
+  <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raian-Siddique)](https://github.com/anuraghazra/github-readme-stats) -->
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -99,10 +105,6 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 ## </details>
-
-  <img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
-
-  <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raian-Siddique)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: https://raian-siddique.github.io/personal-website/
 [twitter]: https://twitter.com/raiansiddique01
