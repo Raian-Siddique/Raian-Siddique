@@ -78,12 +78,6 @@
 
 ## ➡️ [more blog posts...](https://web.facebook.com/raiansiddique01/)
 
----
-
-### ➡️➡️➡️
-
-<img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
-
 ## <!-- github stats:END -->
 
 <details>
@@ -99,12 +93,12 @@
 
 </details>
 
-<!-- <details align="left"> -->
-  <!-- <summary align="left">:zap: Github Stats</summary> -->
+<details align="left"> -->
+  <!-- <summary align="left">:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
-<!-- ## </details> -->
+## </details>
 
 ---
 
@@ -118,6 +112,12 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Raian-Siddique&repo=convoychat" />
 </a>
+
+---
+
+### ➡️➡️➡️
+
+<img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
 [website]: https://raian-siddique.github.io/personal-website/
 [twitter]: https://twitter.com/raiansiddique01
