@@ -80,13 +80,13 @@
 
 ---
 
-### Raian's gitHub stats
+###
 
 <img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
 ## <!-- github stats:END -->
 
-<details>
+<details align="left">
   <summary align="left">:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -99,8 +99,8 @@
 
 </details>
 
-<details>
-  <summary align="left">:zap: Github Stats</summary>
+<details align="left">
+  <summary >:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
