@@ -92,11 +92,11 @@
   <summary >:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#2](https://github.com//Raian-Siddique/pin-matcher/pull/2) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
+2. 💪 Opened PR [#2](https://github.com//Raian-Siddique/pin-matcher/pull/2) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
+3. 🗣 Commented on [#1](https://github.com//Raian-Siddique/pin-matcher/issues/1) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
+4. 🎉 Merged PR [#1](https://github.com//Raian-Siddique/pin-matcher/pull/1) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
+5. 💪 Opened PR [#1](https://github.com//Raian-Siddique/pin-matcher/pull/1) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
 <!--END_SECTION:activity-->
 
 </details>
