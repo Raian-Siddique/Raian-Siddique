@@ -71,14 +71,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Microinteractions: Password Validation Animation](https://web.facebook.com/raiansiddique01/)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://web.facebook.com/raiansiddique01/)
-- [Regular Expressions (RegEx) Crash Course](https://web.facebook.com/raiansiddique01/)
-- [Emmet Part 2 - Advanced](https://web.facebook.com/raiansiddique01/)
-- [Deno 1.0 Released! (Easy) REST API Example](https://web.facebook.com/raiansiddique01/)
-
-  ## <!-- BLOG-POST-LIST:END -->
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+<!-- BLOG-POST-LIST:END -->
 
 ## ➡️ [more blog posts...](https://web.facebook.com/raiansiddique01/)
 
