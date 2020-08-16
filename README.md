@@ -53,14 +53,14 @@
 
 <!-- YOUTUBE:START fo the chammel-->
 
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
+- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://web.facebook.com/raiansiddique01/)
+- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://web.facebook.com/raiansiddique01/)
+- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://web.facebook.com/raiansiddique01/)
+- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://web.facebook.com/raiansiddique01/)
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://web.facebook.com/raiansiddique01/)
 
 ---
 
@@ -68,26 +68,26 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Microinteractions: Password Validation Animation](https://web.facebook.com/raiansiddique01/)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://web.facebook.com/raiansiddique01/)
+- [Regular Expressions (RegEx) Crash Course](https://web.facebook.com/raiansiddique01/)
+- [Emmet Part 2 - Advanced](https://web.facebook.com/raiansiddique01/)
+- [Deno 1.0 Released! (Easy) REST API Example](https://web.facebook.com/raiansiddique01/)
 
   ## <!-- BLOG-POST-LIST:END -->
 
-## ➡️ [more blog posts...](https://codestackr.com)
+## ➡️ [more blog posts...](https://web.facebook.com/raiansiddique01/)
 
 ---
 
-###
+### ➡️➡️➡️
 
 <img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
 ## <!-- github stats:END -->
 
-<details align="left">
-  <summary align="left">:zap: Recent Github Activity</summary>
+<details>
+  <summary >:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
@@ -106,12 +106,19 @@
 
 ## </details>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [website]: https://raian-siddique.github.io/personal-website/
 [twitter]: https://twitter.com/raiansiddique01
 [youtube]: https://www.youtube.com/channel/UCP9yekC_9JP8lztgZ9H51Ew
 [instagram]: https://www.instagram.com/raiansiddique/
 [linkedin]: https://www.linkedin.com/in/raiansiddique001/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://web.facebook.com/raiansiddique01/
+[jsplaylist]: https://web.facebook.com/raiansiddique01/
+[cssplaylist]: https://web.facebook.com/raiansiddique01/
+[reactplaylist]: https://web.facebook.com/raiansiddique01/
