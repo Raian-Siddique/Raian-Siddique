@@ -78,6 +78,8 @@
 
 ➡️ [more blog posts...](https://codestackr.com)
 
+---
+
 ### Raian's gitHub stats
 
 <img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
@@ -102,7 +104,7 @@
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
-## </details>
+ </details>
 
 [website]: https://raian-siddique.github.io/personal-website/
 [twitter]: https://twitter.com/raiansiddique01
