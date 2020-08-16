@@ -78,15 +78,6 @@
 
 ➡️ [more blog posts...](https://codestackr.com)
 
----
-
-### Raian's gitHub stats
-
-<img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
- <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raian-Siddique)](https://github.com/anuraghazra/github-readme-stats) -->
- 
-  ## <!-- github stats:END -->
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -98,7 +89,14 @@
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
-</details>
+## </details>
+
+### Raian's gitHub stats
+
+<img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
+ <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raian-Siddique)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
+  ## <!-- github stats:END -->
 
 <details>
   <summary>:zap: Github Stats</summary>
