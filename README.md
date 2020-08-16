@@ -99,18 +99,24 @@
 
 </details>
 
-<details align="left">
-  <summary align="left">:zap: Github Stats</summary>
+<!-- <details align="left"> -->
+  <!-- <summary align="left">:zap: Github Stats</summary> -->
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
-## </details>
+<!-- ## </details> -->
+
+---
+
+<!-- ### 📕 Top language -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Raian-Siddique/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Raian-Siddique&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Raian-Siddique&repo=convoychat" />
 </a>
 
 [website]: https://raian-siddique.github.io/personal-website/
