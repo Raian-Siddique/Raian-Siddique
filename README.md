@@ -112,11 +112,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Raian-Siddique/github-readme-stats)
 
-<a href="https://github.com/Raian-Siddique/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Raian-Siddique&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/Raian-Siddique/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Raian-Siddique&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 [website]: https://raian-siddique.github.io/personal-website/
