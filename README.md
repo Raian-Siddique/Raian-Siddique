@@ -87,7 +87,7 @@
 ## <!-- github stats:END -->
 
 <details align="left">
-  <summary >:zap: Recent Github Activity</summary>
+  <summary align="left">:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
@@ -100,7 +100,7 @@
 </details>
 
 <details align="left">
-  <summary >:zap: Github Stats</summary>
+  <summary align="left">:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
@@ -115,6 +115,3 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-<!-- # Raian-Siddique
-# Raian-Siddique -->
