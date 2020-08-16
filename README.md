@@ -76,7 +76,7 @@
 
   ## <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+## ➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
@@ -104,7 +104,7 @@
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
 
- </details>
+## </details>
 
 [website]: https://raian-siddique.github.io/personal-website/
 [twitter]: https://twitter.com/raiansiddique01
