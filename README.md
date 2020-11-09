@@ -8,8 +8,8 @@
 
 ## I'm a Student, Developer, fitness-Freak and YouTuber!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a E-commerce website!
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other Developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Work-out and Read Books
