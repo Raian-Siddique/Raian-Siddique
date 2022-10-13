@@ -9,10 +9,10 @@
 ## I'm a Student, Developer, fitness-Freak and YouTuber!
 
 - 🔭 I’m currently working on a E-commerce app!
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate with other Developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Work-out and Read Books
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact:I am a content creator and able to make product video
 
 ### Spotify Playing 🎧
 
