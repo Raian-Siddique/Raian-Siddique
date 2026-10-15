@@ -1,135 +1,70 @@
-### Hi there, I'm Raian [Raian-Siddique][website] 👋
+<div align="center">
 
-<!-- [![Facebook Follow](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raiansiddique01/) -->
-[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raiansiddique)
-[![Facebook Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raiansiddique/)
-[![LinkedIn follow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiansiddique/)
-[![Youtube Follow](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCajeQhLdwAlGkOttO3DVJoA)
+# Hi, I'm Raian 👋
 
-## I'm a Student, Developer, fitness-Freak and YouTuber!
+<a href="https://raiansiddique.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Execution+matters.;Engineering+student+%40+TUHH;Building+smart+sensors+on+FPGAs;Shipping+web+%26+mobile+apps" alt="Typing intro" />
+</a>
 
-- 🔭 I’m currently working on a E-commerce app!
-- 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate with other Developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:I am a content creator and able to make product video
+[![Website](https://img.shields.io/badge/raiansiddique.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://raiansiddique.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiansiddique/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/raiansiddique)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCajeQhLdwAlGkOttO3DVJoA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/raiansiddique/)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
+</div>
 
 ---
 
-### 📺 Latest YouTube Videos
+### 🧭 About me
 
-<!-- YOUTUBE:START fo the chammel-->
-- [I Tested Gemini 3.8 Flash Lite TTS &lpar;It&#39;s Actually Realistic!&rpar;](https://www.youtube.com/watch?v=PmbLRNAlQKo)
-- [Cold Starts Kill AI Apps](https://www.youtube.com/shorts/H6RnDFyS-z4)
-- [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
-- [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
-- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
-<!-- YOUTUBE:END -->
+- 🎓 Engineering student at **TUHH** (Hamburg University of Technology)
+- 🔬 Currently building **smart sensors with ultra-low-power FPGAs** (Verilog) and a companion iOS app (Swift)
+- 🛠️ I like turning ideas into small, useful tools, like a [no-signup contribution tracker](https://github.com/Raian-Siddique/contribution-tracker)
+- 🎥 I also make videos, and I enjoy explaining tech and products on camera
+- 🏋️ Fitness keeps me sane between builds
 
-➡️ [more videos...](https://web.facebook.com/raiansiddique01/)
+### 🧰 Tech stack
 
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,swift,java,androidstudio,kotlin,php,mysql,git,github,vscode&perline=15" alt="Tech stack" />
+  </a>
+</p>
 
-### 📕 Latest Blog Posts
+**Hardware:** Verilog · FPGA (ULP) · embedded sensing
 
-<!-- BLOG-POST-LIST:START -->
-- [It’s Happening! Vercel 🤝 MongoDB](https://dev.to/mongodb/its-happening-vercel-mongodb-4527)
-- [The OpenAI Agents SDK for TypeScript is Missing Something—And That’s Ok](https://dev.to/mongodb/the-openai-agents-sdk-for-typescript-is-missing-something-and-thats-ok-1dco)
-- [Building a Chat Application That Doesn&#39;t Forget!](https://dev.to/mongodb/building-a-chat-application-with-mongodb-memory-provider-for-vercel-ai-sdk-56ap)
-- [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
-- [Top 8 Tips for Using Prisma with MongoDB](https://dev.to/mongodb/top-8-tips-for-using-prisma-with-mongodb-582f)
-<!-- BLOG-POST-LIST:END -->
+### 🚀 Featured projects
 
-## ➡️ [more blog posts...](https://web.facebook.com/raiansiddique01/)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**smart-sensor-pbl1**](https://github.com/Raian-Siddique/smart-sensor-pbl1) | Smart sensors with ultra-low-power FPGAs (TUHH PBL, SS26) | Verilog |
+| [**smart-sensor-pbl**](https://github.com/Raian-Siddique/smart-sensor-pbl) | iOS companion app for the smart sensor project | Swift |
+| [**contribution-tracker**](https://github.com/Raian-Siddique/contribution-tracker) | A clean, no-signup browser app to track monthly project contributions | HTML · CSS · JS |
+| [**MorningLand**](https://github.com/Raian-Siddique/MorningLand) | Web app (work in progress) | TypeScript |
+| [**Raian-Siddique.github.io**](https://github.com/Raian-Siddique/Raian-Siddique.github.io) | My personal portfolio site | HTML |
 
-<!-- ---
+### 📊 GitHub stats
 
-### ➡️➡️➡️
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raian-Siddique&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=8B949E&langs_count=8" alt="Top languages" />
+</p>
 
-<img align="left" alt= "Raian-Siddique git stats" src="https://github-readme-stats.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" /> -->
-
-## <!-- github stats:END -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raian-Siddique&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak" />
+</p>
 
 <details>
-  <summary >:zap: Recent Github Activity</summary>
-  
+  <summary><b>⚡ Recent GitHub activity</b></summary>
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//Raian-Siddique/pin-matcher/pull/2) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
-2. 💪 Opened PR [#2](https://github.com//Raian-Siddique/pin-matcher/pull/2) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
-3. 🗣 Commented on [#1](https://github.com//Raian-Siddique/pin-matcher/issues/1) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
-4. 🎉 Merged PR [#1](https://github.com//Raian-Siddique/pin-matcher/pull/1) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
-5. 💪 Opened PR [#1](https://github.com//Raian-Siddique/pin-matcher/pull/1) in [Raian-Siddique/pin-matcher](https://github.com//Raian-Siddique/pin-matcher)
 <!--END_SECTION:activity-->
 
 </details>
 
-<details align="left">
-  <summary >:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Raian-Siddique&show_icons=true&hide_border=true" />
-
-## </details>
-
 ---
 
-<!-- ### 📕 Top language -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Raian-Siddique/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-
-<br />
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-[website]: https://raian-siddique.github.io/personal-website/
-[twitter]: https://twitter.com/raiansiddique01
-[youtube]: https://www.youtube.com/channel/UCP9yekC_9JP8lztgZ9H51Ew
-[instagram]: https://www.instagram.com/raiansiddique/
-[linkedin]: https://www.linkedin.com/in/raiansiddique001/
-[webdevplaylist]: https://web.facebook.com/raiansiddique01/
-[jsplaylist]: https://web.facebook.com/raiansiddique01/
-[cssplaylist]: https://web.facebook.com/raiansiddique01/
-[reactplaylist]: https://web.facebook.com/raiansiddique01/
-[facebook]: https://web.facebook.com/raiansiddique01/
+<div align="center">
+  <sub>Open to collaborating on hardware + software projects. Say hi on <a href="https://www.linkedin.com/in/raiansiddique/">LinkedIn</a>.</sub>
+</div>
